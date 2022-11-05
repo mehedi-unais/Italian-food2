@@ -1,0 +1,659 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+	/*header start*/
+	header {
+    padding: 8px 0;
+	}
+	.menu ul li a {
+    margin-top: 6px !important;
+    margin-left: 0;
+	}
+	/*header end*/
+
+	/*header end*/
+	.b_text {
+    padding-top: 80px;
+    padding-bottom: 120px;
+	}
+	.b_logo {
+    width: 100px;
+    margin-bottom: 30px;
+	}
+	.b_h1 {
+    font-size: 46px;
+	}
+	.b_h2 {
+    margin: 18px 0 22px;
+    font-size: 18px;
+    letter-spacing: 1px;
+	}
+	.b_btn {
+    font-size: 16px;
+	}
+	.p_b{
+	font-size: 17px;
+	}
+	/*banner end*/
+	/*dolore start*/
+	.dolore {
+    padding-top: 33px;
+    padding-bottom: 33px;
+	}
+	.d_h1 {
+    font-size: 29px;
+	}
+	.d_p {
+    margin: 36px 0 30px;
+    font-size: 21px;
+	}
+
+	.card_d {
+	margin-top: 0;
+    margin-bottom: 0;
+	}
+	.card_h2 {
+    margin: 10px 0 10px;
+    font-size: 28px;
+	}
+	.card_p {
+    font-size: 20px;
+	}
+	.btn_d {
+	margin-top: 15px;
+    padding: 10px 23px;
+    font-size: 15px;
+	}
+	/*dolore end*/
+
+	/*info start*/
+	.info {
+    padding-top: 63px;
+    padding-bottom: 60px;
+	}
+
+    .h1_in {
+    font-size: 29px;
+	}
+	.text_in {
+    margin-top: 34px;
+    text-align: center;
+	}
+	.p_in {
+    margin-bottom: 30px;
+	}
+    /*info end*/
+    
+    /*offer section start*/
+    .discount {
+    padding-top: 35px;
+    padding-bottom: 35px;
+	}
+    .dis_text {
+    margin-top: 0px;
+	}
+	.dis_h2 {
+    font-size: 32px;
+	}
+	.dis_p {
+    margin: 16px 0;
+    font-size: 18px;
+	}
+	.itm_2{
+		margin-top: 40px;
+	}
+
+    /*offer section end*/
+
+    /*pizza section start*/
+    .pizza {
+    padding-top: 154px;
+    padding-bottom: 22px;
+	}
+    .text_piz h1 {
+    font-size: 26px;
+    line-height: 48px
+	}
+	.text_piz p {
+    padding: 29px 0 21px;
+    font-size: 18px;
+    line-height: 29px;
+	}
+	.hrr {
+    width: 133px;
+    height: 6px;
+	}
+    /*pizza section end*/
+
+    /*ut section start*/
+    .ut {
+    padding-top: 80px;
+    padding-bottom: 70px;
+	}
+    .head_p {
+    text-align: center;
+    padding: 25px 42px;
+	}
+	.head_p h2 {
+    margin-left: 5px;
+    font-size: 31px;
+    line-height: 15px;
+	}
+
+    .head_p p {
+    font-size: 18px;
+	}
+	.f_texts {
+    margin-top: 15px;
+	}
+	.f_texts h5 {
+    font-size: 18px;
+	}
+	.f_texts p {
+    margin-top: 13px;
+    font-size: 16px;
+	}
+    /*ut section start*/
+    /*subscribe section start*/
+    .subc {
+    padding-top: 100px;
+    padding-bottom: 100px;
+	}
+	.text_sub h1 {
+    font-size: 52px;
+	}
+	.text_sub p {
+    margin-top: 22px;
+    margin-bottom: 39px;
+    font-size: 20px;
+	}
+    /*subscribe section end*/
+    /*footer section start*/
+    footer {
+    padding-top: 140px;
+    padding-bottom: 140px;
+    }
+    .footer1 {
+    margin-bottom: 55px;
+    text-align: center;
+	}
+    .footer1 h3 {
+    margin-bottom: 12px;
+    font-size: 28px;
+	}
+	.footer1 p {
+    font-size: 21px;
+    padding-right: 0px;
+	}
+	.social a {
+    font-size: 30px;
+	}
+	.footer2 {
+    margin-left: 40px;
+    margin-bottom: 30px;
+	}
+	.footer2 h3 {
+    font-size: 28px;
+    margin-bottom: 12px;
+	}
+	.footer2 a {
+    font-size: 17px;
+	}
+	.footer2 a p {
+    margin-bottom: 9px;
+	}
+    /*footer section end*/
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/*header start*/
+	header {
+    padding: 12px 0;
+	}
+	.menu ul li a {
+    margin-top: 6px !important;
+    margin-left: 0;
+	}
+	/*header end*/
+
+	/*header end*/
+	.b_text {
+    padding-top: 80px;
+    padding-bottom: 120px;
+	}
+	.b_logo {
+    margin-bottom: 30px;
+	}
+	.b_h1 {
+    font-size: 75px;
+	}
+	.b_h2 {
+    margin: 18px 0 22px;
+    font-size: 22px;
+    letter-spacing: 2px;
+	}
+	.b_btn {
+    font-size: 18px;
+	}
+	/*banner end*/
+    /*dolore start*/
+	.d_h1 {
+    font-size: 50px;
+	}
+	.d_p {
+    margin: 45px 0 30px;
+    font-size: 21px;
+	}
+	/*dolore start*/
+
+	/*info start*/
+    .h1_in {
+    font-size: 51px;
+	}
+    /*info end*/
+
+    /*offer section start*/
+    .dis_text {
+    margin-top: 0px;
+	}
+	.dis_h2 {
+    font-size: 51px;
+	}
+	.dis_p {
+    margin: 22px 0;
+    font-size: 26px;
+	}
+	.itm_2{
+		margin-top: 44px;
+	}
+    /*offer section end*/
+
+    /*pizza section start*/
+    .pizza {
+    padding-top: 154px;
+    padding-bottom: 22px;
+	}
+    .text_piz h1 {
+    font-size: 35px;
+	}
+	.text_piz p {
+        padding: 41px 0 25px;
+    font-size: 19px;
+    line-height: 30px;
+	}
+	.hrr {
+    width: 157px;
+    height: 9px;
+	}
+    /*pizza section end*/
+
+    /*ut section start*/
+    .ut {
+    padding-top: 90px;
+    padding-bottom: 80px;
+	}
+    .head_p {
+    text-align: center;
+    padding: 42px;
+	}
+	/*.head_p h2 {
+    margin-left: 5px;
+    font-size: 31px;
+    line-height: 15px;
+	}
+
+    .head_p p {
+    font-size: 18px;
+	}*/
+	.f_texts {
+    margin-top: 80px;
+	}
+	.f_texts h5 {
+    font-size: 21px;
+	}
+	.f_texts p {
+    margin-top: 18px;
+    font-size: 18px;
+	}
+    /*ut section start*/
+    /*subscribe section start*/
+    .subc {
+    padding-top: 140px;
+    padding-bottom: 140px;
+	}
+	.text_sub h1 {
+    font-size: 66px;
+	}
+	.text_sub p {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 25px;
+	}
+    /*subscribe section end*/
+    /*footer section start*/
+    footer {
+    padding-top: 140px;
+    padding-bottom: 140px;
+    }
+    .footer1 {
+    margin-bottom: 55px;
+    text-align: center;
+	}
+    .footer1 h3 {
+    margin-bottom: 12px;
+    font-size: 28px;
+	}
+	.footer1 p {
+    font-size: 21px;
+    padding-right: 0px;
+	}
+	.social a {
+    font-size: 30px;
+	}
+	.footer2 {
+    margin-left: 40px;
+	}
+	.footer2 h3 {
+    font-size: 28px;
+    margin-bottom: 12px;
+	}
+	.footer2 a {
+    font-size: 17px;
+	}
+	.footer2 a p {
+    margin-bottom: 9px;
+	}
+    /*footer section end*/
+
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+	/*header start*/
+	header {
+    padding: 15px 0;
+	}
+
+	.menu ul li a {
+    margin-top: 6px !important;
+    margin-left: 0;
+	}
+	/*header end*/
+	.b_text {
+    padding-top: 90px;
+    padding-bottom: 148px;
+	}
+	.b_logo {
+    margin-bottom: 35px;
+	}
+	.b_h1 {
+    font-size: 67px;
+	}
+	.b_h2 {
+    margin: 50px 0 25px;
+    font-size: 23px;
+    letter-spacing: 2px;
+	}
+	.b_btn {
+    font-size: 20px;
+	}
+	/*banner end*/
+	/*1st dolore start*/
+	.d_h1 {
+    font-size: 56px;
+	}
+	.d_p {
+    margin: 45px 0 30px;
+    font-size: 25px;
+	}
+
+	.card_d {
+        margin: 20px 85px;
+	}
+	/*1st dolore end*/
+
+	/*info start*/
+    .h1_in {
+    font-size: 62px;
+	}
+    /*info end*/
+
+    /*offer section start*/
+    .dis_text {
+    margin-top: 0px;
+	}
+	.dis_h2 {
+    font-size: 36px;
+	}
+	.dis_p {
+    margin: 16px 0;
+    font-size: 22px;
+	}
+	.dis_img img {
+    margin-top: 26px;
+	}
+	.itm_2{
+		margin-top: 53px;
+	}
+    /*offer section end*/
+
+    /*pizza section start*/
+    .pizza {
+    padding-top: 154px;
+    padding-bottom: 22px;
+	}
+    .text_piz h1 {
+    font-size: 47px;
+	}
+	.text_piz p {
+    padding: 54px 0 31px;
+    font-size: 23px;
+    line-height: 32px;
+	}
+	.hrr {
+    width: 157px;
+    height: 9px;
+	}
+    /*pizza section end*/
+
+
+    /*ut section start*/
+    .head_p h2 {
+    margin-left: 5px;
+    font-size: 31px;
+    line-height: 15px;
+	}
+
+    .head_p p {
+    font-size: 18px;
+	}
+	.f_texts {
+    margin-top: 100px;
+	}
+	.f_texts h5 {
+    font-size: 21px;
+	}
+	.f_texts p {
+    margin-top: 18px;
+    font-size: 18px;
+	}
+
+	/*ut section end*/
+	/*subscribe section start*/
+    .subc {
+    padding-top: 180px;
+    padding-bottom: 180px;
+	}
+	.text_sub h1 {
+    font-size: 70px;
+	}
+	.text_sub p {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 26px;
+	}
+    /*subscribe section end*/
+
+    /*footer section start*/
+    footer {
+    padding-top: 140px;
+    padding-bottom: 140px;
+    }
+    .footer1 {
+    margin-bottom: 55px;
+    text-align: center;
+	}
+    .footer1 h3 {
+    margin-bottom: 16px;
+    font-size: 29px;
+	}
+	.footer1 p {
+    font-size: 22px;
+    padding-right: 0px;
+	}
+	.social a {
+    font-size: 32px;
+	}
+	.footer2 {
+    margin-left: 40px;
+	}
+	.footer2 h3 {
+    font-size: 29px;
+	}
+	.footer2 a {
+    font-size: 20px;
+	}
+    /*footer section end*/
+
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*bannar start*/
+	.b_text {
+    padding-top: 117px;
+    padding-bottom: 200px;
+	}
+	.b_logo {
+    margin-bottom: 40px;
+	}
+	.b_h1{
+	font-size: 79px;
+	}
+	.b_h2 {
+    margin: 40px 0 40px;
+	}
+	/*bannar end*/
+
+	/*1st Dolor start*/
+	.d_h1 {
+    font-size: 54px;
+	}
+	.d_p {
+    margin: 42px 0 8px;
+    font-size: 22px;
+	}
+	.card_p {
+    font-size: 21px;
+	}
+	/*1st Dolor end*/
+
+	/*info start*/
+    .h1_in {
+    font-size: 62px;
+	}
+    /*info end*/
+
+    /*offer section start*/
+    .dis_img img {
+    margin-top: 80px;
+	}
+	.dis_h2 {
+    font-size: 49px;
+	}
+	.dis_p {
+    margin: 25px 0;
+    font-size: 25px;
+	}
+    .itm_2{
+    padding-top: 38px;
+    }
+    /*offer section end*/
+
+    /*pizza section start*/
+    .pizza {
+    padding-top: 154px;
+    padding-bottom: 22px;
+	}
+    .text_piz h1 {
+    font-size: 52px;
+	}
+	.text_piz p {
+    padding: 54px 0 31px;
+    font-size: 23px;
+    line-height: 32px;
+	}
+	.hrr {
+    width: 157px;
+    height: 9px;
+	}
+    /*pizza section end*/
+
+    /*ut section start*/
+    .f_texts {
+    margin-top: 90px;
+	}
+    /*ut section end*/
+
+    /*subscribe section start*/
+    .subc {
+    padding-top: 200px;
+    padding-bottom: 200px;
+	}
+    /*subscribe section end*/
+
+    /*footer section start*/
+    footer {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    }
+    .footer1 h3 {
+    font-size: 29px;
+	}
+	.footer1 p {
+    font-size: 22px;
+    padding-right: 53px;
+	}
+	.social a {
+    font-size: 32px;
+	}
+	.footer2 h3 {
+    font-size: 29px;
+	}
+	.footer2 a {
+    font-size: 20px;
+	}
+    /*footer section end*/
+
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+	
+}
